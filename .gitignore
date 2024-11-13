@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Data files
+data/*
+!data/.gitkeep
+
+# Output files
+*.csv
+*.json 
